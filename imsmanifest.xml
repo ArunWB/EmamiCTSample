@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5dW5pacq3d8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Emami ACT Program | Competency - Being an Entrepreneur</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Emami_ACT_Program_|_Competency_-_Being_an_Entrepreneur_ORG">
+    <organization identifier="Emami_ACT_Program_|_Competency_-_Being_an_Entrepreneur_ORG">
+      <title>Emami ACT Program | Competency - Being an Entrepreneur</title>
+      <item identifier="Delivering_Unparalleled_Quality_SCO" isvisible="true" identifierref="__5dW5pacq3d8_RES">
+        <title>Emami ACT Program | Competency - Being an Entrepreneur</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5dW5pacq3d8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5dFhURvs2QM_44100_56_0.mp3" />
+      <file href="story_content/video_5XX399IcO0L_22_56_1920x1080.mp4" />
+      <file href="mobile/poster_5k7d0YS2sXX_video_5XX399IcO0L_22_56_1920x1080.jpg" />
+      <file href="story_content/video_6AzFuw1Vnn9_22_56_1276x720.mp4" />
+      <file href="mobile/poster_6FTNrsYhhSu_video_6AzFuw1Vnn9_22_56_1276x720.jpg" />
+      <file href="mobile/66rg1JCMEzw.png" />
+      <file href="mobile/5jNunsa5w81.png" />
+      <file href="mobile/6j6JSt3LkRE.png" />
+      <file href="mobile/5qakMUuVuUX.png" />
+      <file href="mobile/5s9VEkSVHMW.png" />
+      <file href="mobile/5u8VkdhkbnE.png" />
+      <file href="mobile/6Yn15EjUiH7.png" />
+      <file href="mobile/6MuMw7iAlkz_Y.png" />
+      <file href="mobile/5Ugm65G4sEy.png" />
+      <file href="mobile/61ht1mTc1U4.png" />
+      <file href="mobile/5jo16CnMaTh.png" />
+      <file href="mobile/6bTEDyQGcsi.png" />
+      <file href="mobile/6kEfiRSuZgP_P_0_978_701_102.png" />
+      <file href="mobile/6VQ5SeQXjpS.png" />
+      <file href="mobile/64H66H3vb7O.png" />
+      <file href="mobile/5emXeUMgq6S.png" />
+      <file href="mobile/5rQYIW5Udwj_P_0_0_1920_115.png" />
+      <file href="story_content/video_5VEt9QL4gpe_22_56_1280x720.mp4" />
+      <file href="mobile/poster_5iuzBp5LLkG_video_5VEt9QL4gpe_22_56_1280x720.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5pycBGtIwZa.js" />
+      <file href="html5/data/js/5ZyRfcf3NyB.js" />
+      <file href="html5/data/js/6b8uXn96C0H.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
